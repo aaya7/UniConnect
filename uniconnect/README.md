@@ -1,4 +1,4 @@
-# UniConnect
+# uniconnect
 
 A new Flutter project.
 

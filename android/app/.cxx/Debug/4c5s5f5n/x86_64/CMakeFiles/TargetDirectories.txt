@@ -1,0 +1,2 @@
+/Users/n.yaya/Workspace/development/UniConnect/android/app/.cxx/Debug/4c5s5f5n/x86_64/CMakeFiles/edit_cache.dir
+/Users/n.yaya/Workspace/development/UniConnect/android/app/.cxx/Debug/4c5s5f5n/x86_64/CMakeFiles/rebuild_cache.dir
